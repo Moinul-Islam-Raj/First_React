@@ -2,11 +2,12 @@
   display: block;
   width: 33vw;
   color:white;
-  background-color: black;
+  background-color: rgb(53, 53, 53);
   border: 1.5px solid white;
   border-radius: 7px;
   font-size: 2rem;
   height: 3rem;
+  padding: 2px;
 }
 
 #search-google {
