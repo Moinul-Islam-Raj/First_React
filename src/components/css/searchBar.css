@@ -2,8 +2,16 @@
   display: block;
   width: 33vw;
   color:white;
-  background-color: cyan;
-  border: none;
+  background-color: black;
+  border: 1.5px solid white;
+  border-radius: 7px;
   font-size: 2rem;
-  height: 1rem;
+  height: 3rem;
+}
+
+#search-google {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
