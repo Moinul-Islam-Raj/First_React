@@ -17,12 +17,13 @@
   flex-direction: column;
 }
 
-.submit-search{
+/* .submit-search{
   width: 100%;
-  color: #fff;
+  color: white;
+  font-weight: bold;
   background-color: red;
   padding: 4px 6px;
   border: none;
   border-radius: 7px;
   margin-top: 3px;
-}
+} */
