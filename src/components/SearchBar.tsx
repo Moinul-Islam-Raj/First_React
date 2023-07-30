@@ -7,7 +7,7 @@ const SearchBar = () => {
         <div>
           <label htmlFor="g-search-bar">Google Search</label>
           <input type="search" name="q" id="g-search-bar" />
-          <input type="submit" />
+          <input type="submit" className="submit-search" />
         </div>
       </form>
     </>

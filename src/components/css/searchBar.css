@@ -15,3 +15,12 @@
   align-items: center;
   flex-direction: column;
 }
+
+.submit-search{
+  width: 100%;
+  background-color: red;
+  padding: 4px 6px;
+  border: none;
+  border-radius: 7px;
+  margin-top: 3px;
+}
