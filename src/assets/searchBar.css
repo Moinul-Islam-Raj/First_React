@@ -1,0 +1,9 @@
+#g-search-bar {
+  display: block;
+  width: 33vw;
+  color:white;
+  background-color: cyan;
+  border: none;
+  font-size: 2rem;
+  height: 1rem;
+}
