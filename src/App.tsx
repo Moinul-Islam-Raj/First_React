@@ -15,11 +15,6 @@ function App() {
         nameProp="q"
       />
       <SearchBar
-        title="Yahoo Search"
-        url="https://search.yahoo.com/results"
-        nameProp="q"
-      />
-      <SearchBar
         title="YT Search"
         url="https://www.youtube.com/results"
         nameProp="search_query"
